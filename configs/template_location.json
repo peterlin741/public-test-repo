@@ -99,7 +99,7 @@
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
         "directoryPath": "python/python-hello-world",
         "templatePath": "python-hello-world",
-        "templateName": "Python (Flask): Hello World (pointing at k8s samples)",
+        "templateName": "Python (Flask): Hello World (k8s samples)",
         "templateLanguages": ["python"],
         "runPlatforms": ["cloudrun"]
       },
@@ -107,7 +107,7 @@
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
         "directoryPath": "python/python-guestbook",
         "templatePath": "python-guestbook",
-        "templateName": "Python (Flask): Guestbook (pointing at k8s samples)",
+        "templateName": "Python (Flask): Guestbook (k8s samples)",
         "templateLanguages": ["python"],
         "runPlatforms": ["cloudrun"]
       },
@@ -115,7 +115,7 @@
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
         "directoryPath": "python/django/python-hello-world",
         "templatePath": "python-django-hello-world",
-        "templateName": "Python (Django): Hello World (pointing at k8s samples)",
+        "templateName": "Python (Django): Hello World (k8s samples)",
         "templateLanguages": ["python"],
         "runPlatforms": ["cloudrun"]
       },
@@ -123,7 +123,7 @@
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
         "directoryPath": "python/django/python-guestbook",
         "templatePath": "python-django-guestbook",
-        "templateName": "Python (Django): Guestbook (pointing at k8s samples)",
+        "templateName": "Python (Django): Guestbook (k8s samples)",
         "templateLanguages": ["python"],
         "runPlatforms": ["cloudrun"]
       },
@@ -131,7 +131,7 @@
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
         "directoryPath": "golang/go-hello-world",
         "templatePath": "go-hello-world",
-        "templateName": "Go: Hello World (pointing at k8s samples)",
+        "templateName": "Go: Hello World (k8s samples)",
         "templateLanguages": ["go"],
         "runPlatforms": ["cloudrun"]
       },
@@ -139,7 +139,7 @@
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
         "directoryPath": "golang/go-guestbook",
         "templatePath": "go-guestbook",
-        "templateName": "Go: Guestbook (pointing at k8s samples)",
+        "templateName": "Go: Guestbook (k8s samples)",
         "templateLanguages": ["go"],
         "runPlatforms": ["cloudrun"]
       },
@@ -147,7 +147,7 @@
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
         "directoryPath": "nodejs/nodejs-hello-world",
         "templatePath": "nodejs-hello-world",
-        "templateName": "Node.js: Hello World (pointing at k8s samples)",
+        "templateName": "Node.js: Hello World (k8s samples)",
         "templateLanguages": ["nodejs"],
         "runPlatforms": ["cloudrun"]
       },
@@ -155,7 +155,7 @@
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
         "directoryPath": "nodejs/nodejs-guestbook",
         "templatePath": "nodejs-guestbook",
-        "templateName": "Node.js: Guestbook (pointing at k8s samples)",
+        "templateName": "Node.js: Guestbook (k8s samples)",
         "templateLanguages": ["nodejs"],
         "runPlatforms": ["cloudrun"]
       },
@@ -163,7 +163,7 @@
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
         "directoryPath": "java/java-hello-world",
         "templatePath": "java-hello-world",
-        "templateName": "Java: Hello World (pointing at k8s samples)",
+        "templateName": "Java: Hello World (k8s samples)",
         "templateLanguages": ["java"],
         "runPlatforms": ["cloudrun"]
       },
@@ -171,7 +171,7 @@
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
         "directoryPath": "java/java-guestbook",
         "templatePath": "java-guestbook",
-        "templateName": "Java: Guestbook (pointing at k8s samples)",
+        "templateName": "Java: Guestbook (k8s samples)",
         "templateLanguages": ["java"],
         "runPlatforms": ["cloudrun"]
       },
@@ -179,7 +179,7 @@
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
         "directoryPath": "dotnet/dotnet-hello-world",
         "templatePath": "dotnet-hello-world",
-        "templateName": ".NET Core: Hello World (pointing at k8s samples)",
+        "templateName": ".NET Core: Hello World (k8s samples)",
         "templateLanguages": ["csharp"],
         "runPlatforms": ["cloudrun"]
       },
@@ -187,7 +187,7 @@
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
         "directoryPath": "dotnet/dotnet-guestbook",
         "templatePath": "dotnet-guestbook",
-        "templateName": ".NET Core: Guestbook (pointing at k8s samples)",
+        "templateName": ".NET Core: Guestbook (k8s samples)",
         "templateLanguages": ["csharp"],
         "runPlatforms": ["cloudrun"]
       },
