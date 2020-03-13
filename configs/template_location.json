@@ -195,9 +195,9 @@
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
         "directoryPath": "java/java-hello-world",
         "templatePath": "java-hello-world",
-        "templateName": "petlin't Test - Both k8s and CR tags: Java: Hello World",
+        "templateName": "petlin's Test - Both k8s and CR tags: Java: Hello World",
         "templateLanguages": ["java"],
-        "runPlatforms": ["cloudrun"]
+        "runPlatforms": ["kubernetes", "cloudrun"]
       },
       {
         "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
