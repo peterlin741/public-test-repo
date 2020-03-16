@@ -192,22 +192,6 @@
         "runPlatforms": ["cloudrun"]
       },
       {
-        "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
-        "directoryPath": "java/java-hello-world",
-        "templatePath": "java-hello-world",
-        "templateName": "petlin's Test - Both k8s and CR tags: Java: Hello World",
-        "templateLanguages": ["java"],
-        "runPlatforms": ["kubernetes", "cloudrun"]
-      },
-      {
-        "repoPath": "https://github.com/GoogleCloudPlatform/cloud-code-samples.git",
-        "directoryPath": "nodejs/nodejs-hello-world",
-        "templatePath": "nodejs-hello-world",
-        "templateName": "petlin's Test - Both k8s and CR tags: Node.js Hello World",
-        "templateLanguages": ["nodejs"],
-        "runPlatforms": ["kubernetes", "cloudrun"]
-      },
-      {
         "repoPath": "https://github.com/peterlin741/test3.git",
         "directoryPath": "java/java-cloud-run-hello-world",
         "templatePath": "java-cloud-run-hello-world",
