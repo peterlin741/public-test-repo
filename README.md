@@ -1,3 +1,3 @@
 # public-test-repo
 
-version 2
+version 3
